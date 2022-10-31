@@ -8,4 +8,4 @@ The whole codebase consists of two parts: `pixels.zip` and `pixels-trino.zip`.
 
 `pixels-trino.zip` contains the connector for Trino. The source code related to our Coordinator and VM workers are here (they run as the connector inside the Trino processes).
 
-We may update the documents in the zip files during review process.
+We may update the documents in the zip files during the review process.
